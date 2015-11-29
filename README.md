@@ -21,17 +21,17 @@ ssh -i ~/.ssh/[rsa_key] grader@52.33.165.219 -p 2200
 
 ### List of Software Installed
 
-apache2
-libapache2-mod-wsgi
-postgresql
-git
-python-psycopg2
-python-sqlalchemy
-python-pip
-werkzeug==0.8.3
-flask==0.9
-Flask-Login==0.1.3
-oauth2client
-requests
-httplib2
-flask-seasurf
+* apache2
+* libapache2-mod-wsgi
+* postgresql
+* git
+* python-psycopg2
+* python-sqlalchemy
+* python-pip
+* werkzeug==0.8.3
+* flask==0.9
+* Flask-Login==0.1.3
+* oauth2client
+* requests
+* httplib2
+* flask-seasurf
